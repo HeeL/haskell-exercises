@@ -5,3 +5,4 @@ This repository is a collection of small haskell programms. Most of them wouldn'
 ## Here are some branches that are worth a look:
 
 [Leap Year](https://github.com/HeeL/haskell-exercises/tree/leap-year)
+[Collatz Conjecture](https://github.com/HeeL/haskell-exercises/tree/collatz-conjecture)
