@@ -4,3 +4,4 @@ This repository is a collection of small haskell programs. Most of them wouldn't
 
 * [Leap Year](https://github.com/HeeL/haskell-exercises/tree/master/leap)
 * [Collatz Conjecture](https://github.com/HeeL/haskell-exercises/tree/master/collatz-conjecture)
+* [The Last Digit](https://github.com/HeeL/haskell-exercises/tree/master/last-digit)
